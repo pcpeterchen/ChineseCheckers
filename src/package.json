@@ -1,0 +1,14 @@
+{
+  "name": "chinesecheckers",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/jpm0moxz43",
+  "main": "index.js",
+  "dependencies": {
+    "tachyons": "4.9.0",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "boardgame.io": "0.15.0"
+  }
+}
